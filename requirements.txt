@@ -1,0 +1,7 @@
+torch>=2.1.0       # compiled w/ CUDA 11.8+
+transformers>=4.41.0
+sentence-transformers>=2.7.0
+accelerate>=0.30.0
+bitsandbytes>=0.43.1
+scikit-learn>=1.4.0
+numpy>=1.24.0
